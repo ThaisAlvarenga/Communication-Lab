@@ -1,0 +1,36 @@
+/*
+selector{
+    attribute: value;
+}
+*/
+
+img{
+    height: 600px;
+}
+
+a {
+    display: block;
+    width: 100%;
+
+    /* place the width with percentage so that it doesn't
+    matter which device you visit the page in, the proportions
+    will always be the same */
+}
+
+.all-page{
+    padding: 20px;
+}
+
+.inspiration-link {
+    color: orange;
+}
+
+.AnimeRecomendation {
+    width: 300px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+    padding: 10px;
+    border: 2px solid black;
+}
